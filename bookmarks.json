@@ -2,9 +2,5 @@
   "https://ranprieur.com/essays/dropout.html#HTDO": {
     "title": "How to Drop Out",
     "description": ""
-  },
-  "https://www.igalia.com/chats/ladybird": {
-    "title": "The Novel Engines: Ladybird (Web Ecosystem Health Part XI) | Igalia - Open Source Consultancy and Development",
-    "description": "Igalia is an open source consultancy specialised in the development of innovative projects and solutions. Our engineers have expertise in a wide range of technological areas, including browsers and client-side web technologies, graphics pipeline, compilers and virtual machines. We have the most WPE, WebKit, Chromium/Blink and Firefox expertise found in the consulting business, including many reviewers and committers. Igalia designs, develops, customises and optimises GNU/Linux-based solutions for companies across the globe. Our work and contributions are present in many projects such as GStreamer, Mesa 3D, WebKit, Chromium, etc."
   }
 }

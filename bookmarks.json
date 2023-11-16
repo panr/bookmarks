@@ -26,5 +26,9 @@
   "https://grugbrain.dev": {
     "title": "The Grug Brained Developer",
     "description": ""
+  },
+  "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html": {
+    "title": "Push Ifs Up And Fors Down",
+    "description": "A short note on two related rules of thumb."
   }
 }

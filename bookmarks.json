@@ -30,5 +30,9 @@
   "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html": {
     "title": "Push Ifs Up And Fors Down",
     "description": "A short note on two related rules of thumb."
+  },
+  "https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation": {
+    "title": "The Dunning-Kruger Effect is Autocorrelation &#8211; Economics from the Top Down",
+    "description": "Do unskilled people actually underestimate their incompetence?"
   }
 }

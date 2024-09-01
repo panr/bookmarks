@@ -1,48 +1,4 @@
 {
-  "https://ranprieur.com/essays/dropout.html#HTDO": {
-    "title": "How to Drop Out",
-    "description": ""
-  },
-  "https://registerspill.thorstenball.com/p/the-most-powerful-law-in-software": {
-    "title": "The Most Powerful Law in Software - by Thorsten Ball",
-    "description": "Earthly constraints &amp; Conway&#x27;s Law"
-  },
-  "http://www.catb.org/~esr/faqs/smart-questions.html": {
-    "title": "How To Ask Questions The Smart Way",
-    "description": ""
-  },
-  "https://www.chiark.greenend.org.uk/~sgtatham/bugs.html": {
-    "title": "How to Report Bugs Effectively",
-    "description": ""
-  },
-  "https://kristoff.it/blog/simple-not-just-easy": {
-    "title": "I Want Simple, Not Just Easy | Loris Cro's Blog",
-    "description": "You&rsquo;ve surely read plenty about how simple is good, but what&rsquo;s wrong with easy?"
-  },
-  "https://lukeplant.me.uk/blog/posts/no-one-actually-wants-simplicity": {
-    "title": "No one actually wants simplicity - lukeplant.me.uk",
-    "description": "We think we do, but in fact every web developer will happily sacrifice simplicity to the first shiny thing promising them relief from the mildest of ailments."
-  },
-  "https://grugbrain.dev": {
-    "title": "The Grug Brained Developer",
-    "description": ""
-  },
-  "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html": {
-    "title": "Push Ifs Up And Fors Down",
-    "description": "A short note on two related rules of thumb."
-  },
-  "https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation": {
-    "title": "The Dunning-Kruger Effect is Autocorrelation &#8211; Economics from the Top Down",
-    "description": "Do unskilled people actually underestimate their incompetence?"
-  },
-  "https://en.wikipedia.org/wiki/Motte-and-bailey_fallacy": {
-    "title": "Motte-and-bailey fallacy - Wikipedia",
-    "description": ""
-  },
-  "https://www.youtube.com/watch?v=KyYsVeYzbik": {
-    "title": "The Hacktivist, Award Winning Short Film Documentary - YouTube",
-    "description": "Celebrity hacker Andrew &#39;Bunnie&#39; Huang first clashed with US tech giant Microsoft for teaching others how to modify the Xbox. Almost 20 years later, he is su..."
-  },
   "https://apod.nasa.gov/apod/archivepix.html": {
     "title": "Astronomy Picture of the Day Archive",
     "description": ""

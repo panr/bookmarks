@@ -46,5 +46,9 @@
   "https://apod.nasa.gov/apod/archivepix.html": {
     "title": "Astronomy Picture of the Day Archive (NASA)",
     "description": ""
+  },
+  "https://www.youtube.com/watch?v=czzAVuVz7u4": {
+    "title": "Why Can't We Make Simple Software? - Peter van Hardenberg",
+    "description": ""
   }
 }

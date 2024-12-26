@@ -50,5 +50,9 @@
   "https://www.youtube.com/watch?v=czzAVuVz7u4": {
     "title": "Why Can't We Make Simple Software? - Peter van Hardenberg",
     "description": ""
+  },
+  "https://www.w3.org/Provider/Style/URI": {
+    "title": "Cool URIs don't change",
+    "description": "There are no reasons at all in theory for people to change URIs (or stop maintaining documents), but millions of reasons in practice."
   }
 }

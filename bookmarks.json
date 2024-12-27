@@ -52,7 +52,11 @@
     "description": ""
   },
   "https://www.w3.org/Provider/Style/URI": {
-    "title": "Cool URIs don't change",
+    "title": "Cool URIs don't change.",
     "description": "There are no reasons at all in theory for people to change URIs (or stop maintaining documents), but millions of reasons in practice."
+  },
+  "https://www.youtube.com/watch?v=IxkSlnrRFqc": {
+    "title": "Advanced Napkin Math: Estimating System Performance from First Principles",
+    "description": "by Simon Eskildsen, Shopify"
   }
 }

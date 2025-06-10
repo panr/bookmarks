@@ -70,5 +70,9 @@
   "https://internetphonebook.net": {
     "title": "Internet Phone Book",
     "description": "An annual publication for exploring the vast poetic web, featuring essays, musings and a directory with the personal websites of hundreds of designers, developers, writers, curators, and educators. Published since 2025."
+  },
+  "https://goodinternetmagazine.com": {
+    "title": "Good Internet",
+    "description": "A magazine for the non-corporate and independent web, use of code as an art medium, and web development enthusiasm of hobbyists and professionals alike."
   }
 }

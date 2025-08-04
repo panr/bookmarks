@@ -74,5 +74,9 @@
   "https://goodinternetmagazine.com": {
     "title": "Good Internet",
     "description": "A magazine for the non-corporate and independent web, use of code as an art medium, and web development enthusiasm of hobbyists and professionals alike."
+  },
+  "https://www.drewlyton.com/story/the-future-is-not-self-hosted": {
+    "title": "The Future is NOT Self-Hosted",
+    "description": "In a world where corporations have detached buying from owning, one man attempts to do something radical: build his own cloud."
   }
 }

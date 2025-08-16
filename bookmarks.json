@@ -113,5 +113,10 @@
     "title": "Revolution OS (documentary about GNU/Linux)",
     "description": "Revolution OS is a documentary that examines the genesis of the Open Source Movement, and explores and explains the technical and intellectual issues involved in a manner understandable to computer aficionados and non-techheads alike.",
     "date": "2025-08-10T23:48:01+02:00"
+  },
+  "https://www.seangoedecke.com/good-system-design": {
+    "title": "Everything I know about good system design",
+    "description": "",
+    "date": "2025-08-16T23:29:45+02:00"
   }
 }

@@ -123,5 +123,10 @@
     "title": "Halt and Catch Fire Syllabus",
     "description": "",
     "date": "2025-08-25T07:56:10+02:00"
+  },
+  "https://blog.hofstede.it/freebsd-cheat-sheet-for-linux-admins/index.html": {
+    "title": "FreeBSD Cheat Sheet for Linux Admins | Larvitz Blog",
+    "description": "Common FreeBSD commands vs. Linux",
+    "date": "2025-11-11T07:14:31+01:00"
   }
 }

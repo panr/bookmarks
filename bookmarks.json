@@ -128,5 +128,10 @@
     "title": "FreeBSD Cheat Sheet for Linux Admins | Larvitz Blog",
     "description": "Common FreeBSD commands vs. Linux",
     "date": "2025-11-11T07:14:31+01:00"
+  },
+  "https://unixdigest.com/tutorials/gnupg-tutorial.html#web_of_trust": {
+    "title": "GnuPG Tutorial",
+    "description": "",
+    "date": "2025-11-20T12:28:37+01:00"
   }
 }

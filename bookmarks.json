@@ -133,5 +133,10 @@
     "title": "GnuPG Tutorial",
     "description": "",
     "date": "2025-11-20T12:28:37+01:00"
+  },
+  "https://loggingsucks.com": {
+    "title": "Logging Sucks - Your Logs Are Lying To You",
+    "description": "Why traditional logging fails and how wide events can fix your observability",
+    "date": "2025-12-23T09:09:51+01:00"
   }
 }

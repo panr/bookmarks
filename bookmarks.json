@@ -153,5 +153,10 @@
     "title": "The Git Commands I Run Before Reading Any Code",
     "description": "Five git commands that tell you where a codebase hurts before you open a single file. Churn hotspots, bus factor, bug clusters, and crisis patterns.",
     "date": "2026-04-15T23:01:30+02:00"
+  },
+  "http://www.typewritten.org/Media": {
+    "title": "Retrotechnology Media - Typewritten Software",
+    "description": "Operating Exhibits",
+    "date": "2026-05-12T17:17:31+02:00"
   }
 }
